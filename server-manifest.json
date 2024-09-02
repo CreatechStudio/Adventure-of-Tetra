@@ -1,7 +1,7 @@
 {
   "name": "Adventure-of-Tetra",
   "author": "Iewnfod",
-  "version": "1.20.1a5",
+  "version": "1.20.1a6",
   "description": "",
   "fileApi": "https://github.createchstudio.com/https://github.com/CreatechStudio/Adventure-of-Tetra/blob/main",
   "files": [
@@ -58,6 +58,10 @@
       "hash": "1ecb4dc90e43fe8951c80999afde4fb1d334ff1b"
     },
     {
+      "path": "mods/InventoryProfilesNext-forge-1.20-1.10.10.jar",
+      "hash": "4741ea1fd6d1593b693a389b7c6e1e47690ac3ad"
+    },
+    {
       "path": "mods/aetheric_tetranomicon-1.1.2-1.20.1.jar",
       "hash": "05c005a27cee8471459573bb66f6ec5c3eaaa86e"
     },
@@ -76,6 +80,14 @@
     {
       "path": "mods/betterfoliage-5.0.2.no-server.jar",
       "hash": "4163772d08837daf22034e5333ddefc8532cdb69"
+    },
+    {
+      "path": "mods/kotlinforforge-4.11.0-all.jar",
+      "hash": "1fd8acfd75a2be2dc3cdcc7e816482b2e427d6e5"
+    },
+    {
+      "path": "mods/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+      "hash": "d751153e722a4e014691c83f39f5b07c6ec5333c"
     },
     {
       "path": "mods/FarmersDelight-1.20.1-1.2.4.jar",
@@ -102,6 +114,14 @@
       "hash": "517e33da56d82f568b2de7f720983ea4019e90a6"
     },
     {
+      "path": "mods/fusion-1.1.1-forge-mc1.20.1.jar",
+      "hash": "d45b7aa1be6d65a6c8c1d0b8fb7da07f1ea56c2f"
+    },
+    {
+      "path": "mods/connectedglass-1.1.12-forge-mc1.20.1.jar",
+      "hash": "4f1f0c50f4a94b56f4b32b5749b19e1b1c5f4e8a"
+    },
+    {
       "path": "mods/betterfpsdist-1.20.1-4.4.no-server.jar",
       "hash": "7e06fc293f9f4202c6d25782ae6345d0f133eb56"
     },
@@ -118,6 +138,10 @@
       "hash": "366e0f0c7ca746fee327392d3569b31aefd34b5a"
     },
     {
+      "path": "mods/libIPN-forge-1.20-4.0.2.jar",
+      "hash": "3e7c7fcdc037a6ae3d9146e718d87fc83f88f6d5"
+    },
+    {
       "path": "mods/embeddiumplus-1.20.1-v1.2.13.no-server.jar",
       "hash": "d922515ae0f16af2afdddfd72243a4890a2c7ad8"
     },
@@ -128,6 +152,10 @@
     {
       "path": "mods/Fallingleaves-1.20.1-2.1.0.no-server.jar",
       "hash": "7cae5ae0f3ff3af230ecb8557fe0af6ca59f3ef5"
+    },
+    {
+      "path": "mods/MaFgLib-0.1.13-mc1.20.1.jar",
+      "hash": "a5621373968f02cbe4cb5b2687d9fbea31e3d85e"
     },
     {
       "path": "mods/Butchersdelight beta 1.20.1 2.1.0.jar",
@@ -152,6 +180,10 @@
     {
       "path": "mods/ferritecore-6.0.1-forge.jar",
       "hash": "417fb6ce8f52abf40bd9d0390371790f9576f8ba"
+    },
+    {
+      "path": "mods/Tweakerge-0.1.5-mc1.20.1.jar",
+      "hash": "6b0eaf253e42e90836a2e934c318488b9ff59a24"
     },
     {
       "path": "mods/ItemPhysicLite_FORGE_v1.6.4_mc1.20.1.no-server.jar",
@@ -188,6 +220,10 @@
     {
       "path": "mods/starlight-1.1.2+forge.1cda73c.no-server.jar",
       "hash": "a915880c7834a0b0f9f300f0e3053deaa9a3205a"
+    },
+    {
+      "path": "mods/supermartijn642corelib-1.1.17a-forge-mc1.20.1.jar",
+      "hash": "592d758396570d1369cffab610a622a1600b98a6"
     },
     {
       "path": "mods/JadeAddons-1.20.1-forge-5.2.2.jar",
