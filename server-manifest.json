@@ -1,7 +1,7 @@
 {
   "name": "Adventure-of-Tetra",
   "author": "Iewnfod",
-  "version": "1.20.1a2",
+  "version": "1.20.1a3",
   "description": "",
   "fileApi": "https://github.createchstudio.com/https://github.com/CreatechStudio/Adventure-of-Tetra/blob/main",
   "files": [
@@ -10,12 +10,12 @@
       "hash": "ad59f7943ff93920948fba7f47edff92e74cb463"
     },
     {
-      "path": "mods/ItemPhysicLite_FORGE_v1.6.4_mc1.20.1.jar",
-      "hash": "a24d474e50eeec7c22065faf29f2e743874c26f6"
-    },
-    {
       "path": "mods/tetracelium-1.20.1-1.3.0.jar",
       "hash": "e394364280228297f5fb9a2e418283c46288b01d"
+    },
+    {
+      "path": "mods/cullleaves-forge-3.2.0.no-server.jar",
+      "hash": "bd9ec4468f8a114d3443a034c975e188dbe9f683"
     },
     {
       "path": "mods/oreexcavation-1.13.170.jar",
@@ -32,10 +32,6 @@
     {
       "path": "mods/witheringboon-1.8.3.jar",
       "hash": "8e8c139412ec99540ac5071a8b98ecdd28aad9d2"
-    },
-    {
-      "path": "mods/entityculling-forge-1.7.0-mc1.20.1.jar",
-      "hash": "d2edb93aefdc1b104a8ef975e72c53796b752293"
     },
     {
       "path": "mods/tetra-1.20.1-6.4.0.jar",
@@ -66,24 +62,16 @@
       "hash": "05c005a27cee8471459573bb66f6ec5c3eaaa86e"
     },
     {
+      "path": "mods/midnightlib-forge-1.4.2.no-server.jar",
+      "hash": "9c99369a5b703f428dc31f8e4a1a83fc892bba48"
+    },
+    {
       "path": "mods/soul-fire-d-forge-1.20.1-4.0.3.jar",
       "hash": "8235270992fe30b3ee4007a2c11ad3b398cfd483"
     },
     {
-      "path": "mods/midnightlib-forge-1.4.2.jar",
-      "hash": "9c99369a5b703f428dc31f8e4a1a83fc892bba48"
-    },
-    {
-      "path": "mods/cullleaves-forge-3.2.0.jar",
-      "hash": "bd9ec4468f8a114d3443a034c975e188dbe9f683"
-    },
-    {
-      "path": "mods/embeddiumplus-1.20.1-v1.2.13.jar",
-      "hash": "d922515ae0f16af2afdddfd72243a4890a2c7ad8"
-    },
-    {
-      "path": "mods/betterfpsdist-1.20.1-4.4.jar",
-      "hash": "7e06fc293f9f4202c6d25782ae6345d0f133eb56"
+      "path": "mods/betterfoliage-5.0.2.no-server.jar",
+      "hash": "4163772d08837daf22034e5333ddefc8532cdb69"
     },
     {
       "path": "mods/FarmersDelight-1.20.1-1.2.4.jar",
@@ -102,6 +90,14 @@
       "hash": "65b6cf6873c9e5e6aadc5e46eb9a7c3a7508ab3f"
     },
     {
+      "path": "mods/RuOK-1.5.6_forge1.20.1.no-server.jar",
+      "hash": "517e33da56d82f568b2de7f720983ea4019e90a6"
+    },
+    {
+      "path": "mods/betterfpsdist-1.20.1-4.4.no-server.jar",
+      "hash": "7e06fc293f9f4202c6d25782ae6345d0f133eb56"
+    },
+    {
       "path": "mods/antique-atlas-2.9.17+1.20.jar",
       "hash": "9579f4407e6a774b7260f7b2f0a8d8dea442d8d2"
     },
@@ -114,16 +110,20 @@
       "hash": "a5030682cbbb003aa487763e7476643e0793d840"
     },
     {
-      "path": "mods/Fallingleaves-1.20.1-2.1.0.jar",
-      "hash": "7cae5ae0f3ff3af230ecb8557fe0af6ca59f3ef5"
+      "path": "mods/SmartBrainLib-forge-1.20.1-1.15.jar",
+      "hash": "366e0f0c7ca746fee327392d3569b31aefd34b5a"
+    },
+    {
+      "path": "mods/embeddiumplus-1.20.1-v1.2.13.no-server.jar",
+      "hash": "d922515ae0f16af2afdddfd72243a4890a2c7ad8"
     },
     {
       "path": "mods/libraryferret-forge-1.20.1-4.0.0.jar",
       "hash": "29f240c16ff1a1bc574d69162d379cc1c881e1ab"
     },
     {
-      "path": "mods/starlight-1.1.2+forge.1cda73c.jar",
-      "hash": "a915880c7834a0b0f9f300f0e3053deaa9a3205a"
+      "path": "mods/Fallingleaves-1.20.1-2.1.0.no-server.jar",
+      "hash": "7cae5ae0f3ff3af230ecb8557fe0af6ca59f3ef5"
     },
     {
       "path": "mods/Butchersdelight beta 1.20.1 2.1.0.jar",
@@ -138,20 +138,12 @@
       "hash": "367337b34fe379104ed51051b7ca084bb01c4625"
     },
     {
-      "path": "mods/dynamiclights-1.20.1.2.jar",
-      "hash": "19a5b772e1b6ca15cca8db6f201884459f37a173"
-    },
-    {
       "path": "mods/tetratic-combat-expanded-1.20-2.7.2.jar",
       "hash": "1a638bb6d8ce2ff910118f2f062d8170871b1d50"
     },
     {
       "path": "mods/fabric-api-0.92.2+1.11.8+1.20.1.jar",
       "hash": "d5680a4d2e2dde45115e41a5e22f6b32f9c80f50"
-    },
-    {
-      "path": "mods/RuOK-1.5.6_forge1.20.1.jar",
-      "hash": "517e33da56d82f568b2de7f720983ea4019e90a6"
     },
     {
       "path": "mods/cloth-config-11.1.118-forge.jar",
@@ -162,8 +154,8 @@
       "hash": "417fb6ce8f52abf40bd9d0390371790f9576f8ba"
     },
     {
-      "path": "mods/embeddium-0.3.31+mc1.20.1.jar",
-      "hash": "bb2fa8f3e493af16af9160d049f96c614a1faf2f"
+      "path": "mods/ItemPhysicLite_FORGE_v1.6.4_mc1.20.1.no-server.jar",
+      "hash": "a24d474e50eeec7c22065faf29f2e743874c26f6"
     },
     {
       "path": "mods/vvaddon-1.20.1-alpha3.0.1.jar",
@@ -190,6 +182,10 @@
       "hash": "c6da9c681bf2ec1d7b3e96db739c2b1113f6b838"
     },
     {
+      "path": "mods/starlight-1.1.2+forge.1cda73c.no-server.jar",
+      "hash": "a915880c7834a0b0f9f300f0e3053deaa9a3205a"
+    },
+    {
       "path": "mods/JadeAddons-1.20.1-forge-5.2.2.jar",
       "hash": "74b567a2b23bf34cd37ee4c02059318f8cc702d7"
     },
@@ -202,8 +198,16 @@
       "hash": "204bc8aa83e8a685f64311b72d55505ab2eca867"
     },
     {
-      "path": "mods/betterfoliage-5.0.2.jar",
-      "hash": "4163772d08837daf22034e5333ddefc8532cdb69"
+      "path": "mods/embeddium-0.3.31+mc1.20.1.no-server.jar",
+      "hash": "bb2fa8f3e493af16af9160d049f96c614a1faf2f"
+    },
+    {
+      "path": "mods/entityculling-forge-1.7.0-mc1.20.1.no-server.jar",
+      "hash": "d2edb93aefdc1b104a8ef975e72c53796b752293"
+    },
+    {
+      "path": "mods/dynamiclights-1.20.1.2.no-server.jar",
+      "hash": "19a5b772e1b6ca15cca8db6f201884459f37a173"
     }
   ],
   "addons": [
