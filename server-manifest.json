@@ -1,7 +1,7 @@
 {
   "name": "Adventure-of-Tetra",
   "author": "Iewnfod",
-  "version": "1.20.1a4",
+  "version": "1.20.1a5",
   "description": "",
   "fileApi": "https://github.createchstudio.com/https://github.com/CreatechStudio/Adventure-of-Tetra/blob/main",
   "files": [
@@ -24,10 +24,6 @@
     {
       "path": "mods/bettervillage-forge-1.20.1-3.2.0.jar",
       "hash": "cc8cd793f9173812980580d8ba8f7e0046e2883c"
-    },
-    {
-      "path": "mods/Connector-1.0.0-beta.45+1.20.1.jar",
-      "hash": "bcbcdcfa0260df23800d26069588073b998e65e7"
     },
     {
       "path": "mods/witheringboon-1.8.3.jar",
@@ -74,12 +70,20 @@
       "hash": "8235270992fe30b3ee4007a2c11ad3b398cfd483"
     },
     {
+      "path": "mods/Xaeros_Minimap_24.4.0_Forge_1.20.jar",
+      "hash": "2ec40354f13729c18a9f3bc51c2e3d2fbcc0d165"
+    },
+    {
       "path": "mods/betterfoliage-5.0.2.no-server.jar",
       "hash": "4163772d08837daf22034e5333ddefc8532cdb69"
     },
     {
       "path": "mods/FarmersDelight-1.20.1-1.2.4.jar",
       "hash": "71daa55fd88b6f181c51ec6892600415df591f64"
+    },
+    {
+      "path": "mods/XaerosWorldMap_1.39.0_Forge_1.20.jar",
+      "hash": "33704b6dd2ee6fbf1da0cffcf2001bf7f1c3dea4"
     },
     {
       "path": "mods/jeiintegration_1.20.1-10.0.0.jar",
@@ -100,10 +104,6 @@
     {
       "path": "mods/betterfpsdist-1.20.1-4.4.no-server.jar",
       "hash": "7e06fc293f9f4202c6d25782ae6345d0f133eb56"
-    },
-    {
-      "path": "mods/antique-atlas-2.9.17+1.20.jar",
-      "hash": "9579f4407e6a774b7260f7b2f0a8d8dea442d8d2"
     },
     {
       "path": "mods/tetranichematerials-1.82-1.20.1.jar",
@@ -146,10 +146,6 @@
       "hash": "1a638bb6d8ce2ff910118f2f062d8170871b1d50"
     },
     {
-      "path": "mods/fabric-api-0.92.2+1.11.8+1.20.1.jar",
-      "hash": "d5680a4d2e2dde45115e41a5e22f6b32f9c80f50"
-    },
-    {
       "path": "mods/cloth-config-11.1.118-forge.jar",
       "hash": "c46ca3fba95691873a765f4e79750c615f33e446"
     },
@@ -168,6 +164,10 @@
     {
       "path": "mods/aether-1.20.1-1.4.2-neoforge.jar",
       "hash": "8d7e71f924e585b7565fe3fedd7c89471c32381c"
+    },
+    {
+      "path": "mods/toms_storage-1.20-1.6.8.jar",
+      "hash": "87ae6d6eca443036a726291e015a0f3f8bdaaed3"
     },
     {
       "path": "mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
