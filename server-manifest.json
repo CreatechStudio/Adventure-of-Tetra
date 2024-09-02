@@ -1,0 +1,123 @@
+{
+  "name": "Adventure-of-Tetra",
+  "author": "Iewnfod",
+  "version": "1.20.1a1",
+  "description": "",
+  "fileApi": "https://github.createchstudio.com/https://github.com/CreatechStudio/Adventure-of-Tetra/blob/main",
+  "files": [
+    {
+      "path": "mods/tetracelium-1.20.1-1.3.0.jar",
+      "hash": "e394364280228297f5fb9a2e418283c46288b01d"
+    },
+    {
+      "path": "mods/Connector-1.0.0-beta.45+1.20.1.jar",
+      "hash": "bcbcdcfa0260df23800d26069588073b998e65e7"
+    },
+    {
+      "path": "mods/witheringboon-1.8.3.jar",
+      "hash": "8e8c139412ec99540ac5071a8b98ecdd28aad9d2"
+    },
+    {
+      "path": "mods/tetra-1.20.1-6.4.0.jar",
+      "hash": "e7bb77197a6b3ca7be8d7851e7cb09fcb1140ce7"
+    },
+    {
+      "path": "mods/AoA3-1.20.1-3.7.1-all.jar",
+      "hash": "eadcab8b211267271e3bbb46125ff05bbe7c3a5d"
+    },
+    {
+      "path": "mods/Jade-1.20.1-forge-11.7.1.jar",
+      "hash": "6a17415a34591168203b8ed6f334a349da55f797"
+    },
+    {
+      "path": "mods/art_of_forging-1.8.3-1.20.1.jar",
+      "hash": "1ecb4dc90e43fe8951c80999afde4fb1d334ff1b"
+    },
+    {
+      "path": "mods/aetheric_tetranomicon-1.1.2-1.20.1.jar",
+      "hash": "05c005a27cee8471459573bb66f6ec5c3eaaa86e"
+    },
+    {
+      "path": "mods/soul-fire-d-forge-1.20.1-4.0.3.jar",
+      "hash": "8235270992fe30b3ee4007a2c11ad3b398cfd483"
+    },
+    {
+      "path": "mods/jeiintegration_1.20.1-10.0.0.jar",
+      "hash": "0aa9c598105938ee0be35f1c1b31ab5d936b0ef6"
+    },
+    {
+      "path": "mods/mtetm-1.2.8-1.20.1.jar",
+      "hash": "05e8bdec4f447ade9c2dc8a7cf0f4d00868eab5b"
+    },
+    {
+      "path": "mods/cobweb-forge-1.20.1-1.0.0.jar",
+      "hash": "65b6cf6873c9e5e6aadc5e46eb9a7c3a7508ab3f"
+    },
+    {
+      "path": "mods/antique-atlas-2.9.17+1.20.jar",
+      "hash": "9579f4407e6a774b7260f7b2f0a8d8dea442d8d2"
+    },
+    {
+      "path": "mods/tetranichematerials-1.82-1.20.1.jar",
+      "hash": "1d4607b651d8617e84d9870a07dd0a0585a39c2b"
+    },
+    {
+      "path": "mods/mutil-1.20.1-6.1.1.jar",
+      "hash": "a5030682cbbb003aa487763e7476643e0793d840"
+    },
+    {
+      "path": "mods/tetranomicon-1.5.3-1.20.1.jar",
+      "hash": "367337b34fe379104ed51051b7ca084bb01c4625"
+    },
+    {
+      "path": "mods/tetratic-combat-expanded-1.20-2.7.2.jar",
+      "hash": "1a638bb6d8ce2ff910118f2f062d8170871b1d50"
+    },
+    {
+      "path": "mods/fabric-api-0.92.2+1.11.8+1.20.1.jar",
+      "hash": "d5680a4d2e2dde45115e41a5e22f6b32f9c80f50"
+    },
+    {
+      "path": "mods/cloth-config-11.1.118-forge.jar",
+      "hash": "c46ca3fba95691873a765f4e79750c615f33e446"
+    },
+    {
+      "path": "mods/vvaddon-1.20.1-alpha3.0.1.jar",
+      "hash": "b66997ad5b46a9ca9c5b56bd213eb1544fa1afbe"
+    },
+    {
+      "path": "mods/aether-1.20.1-1.4.2-neoforge.jar",
+      "hash": "8d7e71f924e585b7565fe3fedd7c89471c32381c"
+    },
+    {
+      "path": "mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+      "hash": "16808f94a41d45d8e986b4e4ea6b02ba57fa058a"
+    },
+    {
+      "path": "mods/adtetra-2.0.0.jar",
+      "hash": "69eda1850c42179fd439bd29ed2d14de8b1c13e9"
+    },
+    {
+      "path": "mods/bettercombat-forge-1.8.6+1.20.1.jar",
+      "hash": "70c20cd81a4051b2ad4289ff6522e80b397d7b3d"
+    },
+    {
+      "path": "mods/JadeAddons-1.20.1-forge-5.2.2.jar",
+      "hash": "74b567a2b23bf34cd37ee4c02059318f8cc702d7"
+    },
+    {
+      "path": "mods/jei-1.20.1-forge-15.16.2.73.jar",
+      "hash": "91ee0727382dd0e81a9a3e729a5ee1981ec4364b"
+    }
+  ],
+  "addons": [
+    {
+      "id": "game",
+      "version": "1.20.1"
+    },
+    {
+      "id": "forge",
+      "version": "47.3.7"
+    }
+  ]
+}
