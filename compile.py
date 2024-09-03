@@ -32,7 +32,7 @@ override_ignore = [
 manifest = {
 	"name": "Adventure-of-Tetra",
 	"author": "Iewnfod",
-	"version": "1.20.1a11",
+	"version": "1.20.1a12",
 	"description": "",
 	"fileApi": "https://github.createchstudio.com/https://github.com/CreatechStudio/Adventure-of-Tetra/blob/main",
 	"files": {},
