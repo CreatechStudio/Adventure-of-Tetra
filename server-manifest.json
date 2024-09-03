@@ -1,7 +1,7 @@
 {
   "name": "Adventure-of-Tetra",
   "author": "Iewnfod",
-  "version": "1.20.1a9",
+  "version": "1.20.1a10",
   "description": "",
   "fileApi": "https://github.createchstudio.com/https://github.com/CreatechStudio/Adventure-of-Tetra/blob/main",
   "files": [
@@ -80,6 +80,10 @@
     {
       "path": "mods/aetheric_tetranomicon-1.1.2-1.20.1.jar",
       "hash": "05c005a27cee8471459573bb66f6ec5c3eaaa86e"
+    },
+    {
+      "path": "mods/travelersbackpack-forge-1.20.1-9.1.15.jar",
+      "hash": "7190d7e84d32b7b53cd2dfd13ab60764720fed75"
     },
     {
       "path": "mods/midnightlib-forge-1.4.2.no-server.jar",
@@ -178,6 +182,10 @@
       "hash": "457aab3ae1a01a8a92fa707039243c908079cbe8"
     },
     {
+      "path": "mods/Searchables-forge-1.20.1-1.0.3.no-server.jar",
+      "hash": "ed5a23ec30c90fd06b3f1d8140614028e1fafaee"
+    },
+    {
       "path": "mods/kotlinforforge-4.11.0-all.no-server.jar",
       "hash": "1fd8acfd75a2be2dc3cdcc7e816482b2e427d6e5"
     },
@@ -210,12 +218,20 @@
       "hash": "b66997ad5b46a9ca9c5b56bd213eb1544fa1afbe"
     },
     {
+      "path": "mods/FastLeafDecay-32.jar",
+      "hash": "4a76af4ca71dd9939d3c21206792c0d5f75b93a7"
+    },
+    {
       "path": "mods/aether-1.20.1-1.4.2-neoforge.jar",
       "hash": "8d7e71f924e585b7565fe3fedd7c89471c32381c"
     },
     {
       "path": "mods/toms_storage-1.20-1.6.8.jar",
       "hash": "87ae6d6eca443036a726291e015a0f3f8bdaaed3"
+    },
+    {
+      "path": "mods/Controlling-forge-1.20.1-12.0.2.no-server.jar",
+      "hash": "f6d3cdd3ec68c5590cf5b2e89c38dbf031824bfd"
     },
     {
       "path": "mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
