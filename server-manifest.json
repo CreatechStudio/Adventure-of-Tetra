@@ -1,7 +1,7 @@
 {
   "name": "Adventure-of-Tetra",
   "author": "Iewnfod",
-  "version": "1.20.1a8",
+  "version": "1.20.1a9",
   "description": "",
   "fileApi": "https://github.createchstudio.com/https://github.com/CreatechStudio/Adventure-of-Tetra/blob/main",
   "files": [
@@ -98,6 +98,10 @@
       "hash": "4163772d08837daf22034e5333ddefc8532cdb69"
     },
     {
+      "path": "mods/dynamic-fps-3.6.3+minecraft-1.20.0-forge.jar",
+      "hash": "c8b589a8f7c6c2455f2d607ee913b0dd96c4c945"
+    },
+    {
       "path": "mods/FarmersDelight-1.20.1-1.2.4.jar",
       "hash": "71daa55fd88b6f181c51ec6892600415df591f64"
     },
@@ -142,6 +146,10 @@
       "hash": "366e0f0c7ca746fee327392d3569b31aefd34b5a"
     },
     {
+      "path": "mods/WI-Zoom-1.5-MC1.20.1-Forge.no-server.jar",
+      "hash": "de100712cf2b7187a23f5cd726b93e576592979b"
+    },
+    {
       "path": "mods/rubidium-mc1.20.1-0.7.1.no-server.jar",
       "hash": "9c532360e08cca8c8dd2d94827c24fc7eaac8b4b"
     },
@@ -160,10 +168,6 @@
     {
       "path": "mods/Fallingleaves-1.20.1-2.1.0.no-server.jar",
       "hash": "7cae5ae0f3ff3af230ecb8557fe0af6ca59f3ef5"
-    },
-    {
-      "path": "mods/dynamic-fps-3.6.3+minecraft-1.20.0-forge.no-server.jar",
-      "hash": "c8b589a8f7c6c2455f2d607ee913b0dd96c4c945"
     },
     {
       "path": "mods/Butchersdelight beta 1.20.1 2.1.0.jar",
