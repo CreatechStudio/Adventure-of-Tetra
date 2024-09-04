@@ -1,7 +1,7 @@
 {
   "name": "Adventure-of-Tetra",
   "author": "Iewnfod",
-  "version": "1.20.1a13",
+  "version": "1.20.1a14",
   "description": "",
   "fileApi": "https://github.createchstudio.com/https://github.com/CreatechStudio/Adventure-of-Tetra/blob/main",
   "files": [
@@ -162,8 +162,8 @@
       "hash": "de100712cf2b7187a23f5cd726b93e576592979b"
     },
     {
-      "path": "mods/rubidium-mc1.20.1-0.7.1.no-server.jar",
-      "hash": "9c532360e08cca8c8dd2d94827c24fc7eaac8b4b"
+      "path": "mods/embeddiumplus-1.20.1-v1.2.13.no-server.jar",
+      "hash": "d922515ae0f16af2afdddfd72243a4890a2c7ad8"
     },
     {
       "path": "mods/libraryferret-forge-1.20.1-4.0.0.jar",
@@ -268,6 +268,10 @@
     {
       "path": "mods/alternate_current-mc1.20-1.7.0.jar",
       "hash": "02def44a2c416459ee5daecbe1caa6d78571e205"
+    },
+    {
+      "path": "mods/embeddium-0.3.31+mc1.20.1.no-server.jar",
+      "hash": "bb2fa8f3e493af16af9160d049f96c614a1faf2f"
     },
     {
       "path": "mods/entityculling-forge-1.7.0-mc1.20.1.no-server.jar",

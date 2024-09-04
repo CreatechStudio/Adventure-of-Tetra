@@ -11,7 +11,7 @@ base = os.path.dirname(os.path.abspath(__file__))
 manifest_path = os.path.join(base, 'server-manifest.json')
 override_path = os.path.join(base, 'overrides')
 
-detect_base = os.path.abspath('/Users/muyunxi/Desktop/desktop/Minecraft/minecraft/versions/Adventure of Tetra')
+detect_base = os.path.abspath('/Users/jessiezhu/Library/Application Support/minecraft/versions/Adventure of Tetra')
 override_contents = [
 	'mods'
 ]
@@ -32,7 +32,7 @@ override_ignore = [
 manifest = {
 	"name": "Adventure-of-Tetra",
 	"author": "Iewnfod",
-	"version": "1.20.1a13",
+	"version": "1.20.1a14",
 	"description": "",
 	"fileApi": "https://github.createchstudio.com/https://github.com/CreatechStudio/Adventure-of-Tetra/blob/main",
 	"files": {},
